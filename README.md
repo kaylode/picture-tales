@@ -4,7 +4,7 @@
   <p><em>Transforming photos into accessible, engaging storybooks</em></p>
 </div>
 
-> 🏆 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa during the 12-hour hackathon.
+> 🏆 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa (mentored by Swasthik Shetty) during the 12-hour hackathon.
 
 ## 🌟 The Problem
 
