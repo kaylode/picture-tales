@@ -153,6 +153,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Powered completely by Google Gemini AI and Firebase Studio
 - Inspired by the belief that everyone deserves access to the joy of reading
 
+
+
 ---
 
 <div align="center">
