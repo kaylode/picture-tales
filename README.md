@@ -1,14 +1,18 @@
-# PictureTales
-
 <div align="center">
   <img src="resources/picture-tales-logo.png" alt="PictureTales Logo" width="200" />
-  <h3>Breaking Barriers for Dyslexic Readers</h3>
+  <h3>PictureTales: Breaking Barriers for Dyslexic Readers</h3>
   <p><em>Transforming photos into accessible, engaging storybooks</em></p>
 </div>
+
+> 🏆 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa during the 12-hour hackathon.
 
 ## 🌟 The Problem
 
 **1 in 10 people worldwide are dyslexic** — nearly 1 billion people affected by a condition that traditional reading tools simply don't address.
+
+### Total Addressable Market
+- **~800M people** in the world have dyslexia
+- **$5.2B+** market size (growing at ~6.5% CAGR)
 
 The consequences are profound:
 - **Low confidence** in reading abilities
@@ -27,6 +31,14 @@ PictureTales is an **AI for Good** platform that transforms photos or general co
 - Auditory-first experience with customizable high-quality text-to-speech
 - Dyslexia-friendly fonts and adjustable layouts to reduce visual stress
 - Full control over audio and visual elements for paced, personalized learning
+
+🤖 **Fully Powered by Gemini AI**
+- **Text Summarization**: Intelligently condenses complex narratives into digestible, dyslexia-friendly content
+- **Advanced Storytelling**: Creates engaging, multi-paragraph narratives tailored to user preferences and themes
+- **Smart Content Tailoring**: Adapts vocabulary, sentence structure, and complexity based on accessibility needs
+- **AI Image Generation**: Produces consistent, high-quality illustrations that perfectly match story content
+- **Visual Consistency**: Maintains character appearance, style, and thematic elements across all generated frames
+- **Contextual Understanding**: Ensures seamless narrative flow and visual coherence throughout the entire storybook
 
 📚 **Confidence Building**
 - Removes anxiety around reading
