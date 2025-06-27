@@ -150,7 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Built with ❤️ for the dyslexic community
-- Powered by Google AI and Firebase
+- Powered completely by Google Gemini AI and Firebase Studio
 - Inspired by the belief that everyone deserves access to the joy of reading
 
 ---
