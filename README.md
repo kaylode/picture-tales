@@ -6,6 +6,9 @@
 
 > 🏆 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa (mentored by Swasthik Shetty) during the 12-hour hackathon.
 
+🌐 The app is now hosted at [https://picture-tales.vercel.app](https://picture-tales.vercel.app)
+
+
 ## 🌟 The Problem
 
 **1 in 10 people worldwide are dyslexic** — nearly 1 billion people affected by a condition that traditional reading tools simply don't address.
