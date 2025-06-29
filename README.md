@@ -72,42 +72,6 @@ Save your finished storybook as a personalized, accessible PDF ready to enjoy an
   <p><em>Example of a generated storybook with AI-created illustrations and dyslexia-friendly formatting. The prompt: "a story about the main boy character who has a robot best friend".</em></p>
 </div>
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18.0 or later
-- npm or yarn package manager
-- Firebase account for authentication and hosting
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/kaylode/picture-tales.git
-cd picture-tales
-```
-
-2. Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Set up environment variables:
-```bash
-cp .env.example .env.local
-```
-Fill in your Firebase configuration and API keys.
-
-4. Run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🛠️ Tech Stack
 
