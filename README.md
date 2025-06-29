@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="resources/picture-tales-logo.png" alt="PictureTales Logo" width="200" />
-  <h3>PictureTales: Breaking Barriers for Dyslexic Readers</h3>
+  <img src="resources/picture-tales-logo.png" alt="PictureTales Logo" width="600" />
+  <h3>PictureTales 📖 : Breaking Barriers for Dyslexic Readers</h3>
   <p><em>Transforming photos into accessible, engaging storybooks</em></p>
+  <p><em>💡 Fully powered by Google Gemini API</em></p>
 </div>
 
-> 🏆 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa (mentored by Swasthik Shetty) during the 12-hour hackathon.
+> 🏆 🥈 **Winner of 2nd Place** at the Google Student AI Hackathon 2025 in Google Dublin, Ireland. This project was created by Team 9: Minh-Khoi Pham, Marco Nocerino, Mohamed Benyounis, Mayank Sehrawat, and Naganirdesh Parisa (mentored by Swasthik Shetty) during the 12-hour hackathon.
 
 🌐 The app is now hosted at [https://picture-tales.vercel.app](https://picture-tales.vercel.app)
 
@@ -26,7 +27,7 @@ The current educational system is built for readers — not for the diverse ways
 
 ## 🚀 Our Solution
 
-PictureTales is an **AI for Good** platform that transforms photos or general context into fully accessible storybooks using dyslexia-friendly words and design principles. We're making reading effortless, engaging, and confidence-building.
+PictureTales is an **AI for Good** platform that transforms photos or general context into fully accessible storybooks using dyslexia-friendly words and design principles. We're making reading effortless, engaging, and confidence-building. Empowering users through personalized, immersive and interactive reading experiences
 
 ### Key Features
 
@@ -34,7 +35,7 @@ PictureTales is an **AI for Good** platform that transforms photos or general co
 - Auditory-first experience with customizable high-quality text-to-speech
 - Dyslexia-friendly fonts and adjustable layouts to reduce visual stress
 - Full control over audio and visual elements for paced, personalized learning
-
+  
 🤖 **Fully Powered by Gemini AI**
 - **Text Summarization**: Intelligently condenses complex narratives into digestible, dyslexia-friendly content
 - **Advanced Storytelling**: Creates engaging, multi-paragraph narratives tailored to user preferences and themes
@@ -43,10 +44,6 @@ PictureTales is an **AI for Good** platform that transforms photos or general co
 - **Visual Consistency**: Maintains character appearance, style, and thematic elements across all generated frames
 - **Contextual Understanding**: Ensures seamless narrative flow and visual coherence throughout the entire storybook
 
-📚 **Confidence Building**
-- Removes anxiety around reading
-- Fosters a genuine love for stories
-- Empowers users through personalized experiences
 
 ## 🛠️ How It Works
 
@@ -74,26 +71,6 @@ Save your finished storybook as a personalized, accessible PDF ready to enjoy an
   <img src="resources/result.png" alt="PictureTales Generated Storybook Example" width="600" />
   <p><em>Example of a generated storybook with AI-created illustrations and dyslexia-friendly formatting. The prompt: "a story about the main boy character who has a robot best friend".</em></p>
 </div>
-
-## 🎯 User Journey
-
-1. **Login** with your Google account for a seamless experience
-2. **Upload** your own pictures to spark the story
-3. **Choose** a creative theme that inspires you
-4. **Provide** a short description to guide the AI
-5. **Watch** as AI weaves a unique, multi-paragraph story
-6. **Enjoy** AI-generated illustrations that match your story's style
-7. **Listen** to your story read aloud with customizable narration
-8. **Customize** fonts, voice, and reading pace to your preferences
-9. **Save** your illustrated tale as a high-quality PDF
-
-## 🌍 Impact
-
-We're not just creating storybooks — we're:
-- **Building confidence** in reading abilities
-- **Fostering creativity** through visual storytelling
-- **Removing barriers** that have held back dyslexic learners
-- **Empowering** nearly 1 billion people worldwide
 
 ## 🚀 Getting Started
 
@@ -137,26 +114,8 @@ yarn dev
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui components
 - **Backend**: Firebase (Authentication, Firestore, Storage)
-- **AI**: Google Genkit for story generation and text-to-speech
+- **AI**: Google Gemini API for story generation, images generation and text-to-speech
 - **Deployment**: Firebase App Hosting
-
-## 📁 Project Structure
-
-```
-├── src/
-│   ├── app/                 # Next.js app router
-│   ├── components/          # Reusable UI components
-│   ├── ai/                  # AI flows and configurations
-│   ├── hooks/               # Custom React hooks
-│   └── lib/                 # Utility functions and configs
-├── resources/               # Static assets and logos
-├── docs/                    # Documentation
-└── components/              # Additional UI components
-```
-
-## 🤝 Contributing
-
-We welcome contributions that help make reading more accessible! Please read our contributing guidelines and feel free to submit issues and pull requests.
 
 ## 📄 License
 
@@ -173,5 +132,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p><strong>PictureTales - Where every picture tells an accessible story</strong></p>
+  <p><strong>PictureTales 📖 - Where every picture tells an accessible story</strong></p>
 </div>
