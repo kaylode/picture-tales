@@ -45,7 +45,7 @@ PictureTales is an **AI for Good** platform that transforms photos or general co
 - **Contextual Understanding**: Ensures seamless narrative flow and visual coherence throughout the entire storybook
 
 
-## 🛠️ How It Works
+## 🛠️ How It Works:
 
 <div align="center">
   <img src="resources/ui.png" alt="PictureTales User Interface" width="600" />
@@ -99,6 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ---
+
 
 <div align="center">
   <p><strong>PictureTales 📖 - Where every picture tells an accessible story</strong></p>
