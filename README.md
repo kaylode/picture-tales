@@ -83,7 +83,7 @@ Save your finished storybook as a personalized, accessible PDF ready to enjoy an
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui components
 - **Backend**: Firebase (Authentication, Firestore, Storage)
-- **AI**: Google Gemini API for story generation, images generation and text-to-speech
+- **AI**: Google Gemini API for story generation, images generation & text-to-speech
 - **Deployment**: Firebase App Hosting
 
 ## 📄 License
@@ -105,3 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p><strong>PictureTales 📖 - Where every picture tells an accessible story!</strong></p>
 </div>
+
